@@ -1,6 +1,6 @@
 hello git! hello second;
 hello git! hello third;
-hello git!
+hello git! hello branch one hot-fix!
 hello git!
 hello git!
 hello git!
