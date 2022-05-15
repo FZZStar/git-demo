@@ -4,8 +4,8 @@ hello git! hello branch one hot-fix!
 hello git! github first update;
 hello git! update by cloneTest;
 hello git! hhhhhhhhhhhhhhhhhhh;
-hello git! test ssh;
-hello git!
+hello git! test ssh pull;
+hello git! test ssh push;
 hello git!
 hello git!
 hello git!
